@@ -15,7 +15,9 @@
 ![](https://img.shields.io/badge/Tool-Microsoft_Office-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=BC2B41)
 
 # 👋 About Me
-Hi I am @WatkingStudio, a Software Engineer from the North West England. I have 4 years professional experience as a Software Engineer, and a degree in Computer Games Programming. I have interests in the creation, reviewing and testing of code. 
+Hi I am @WatkingStudio, a Software Engineer from the North West England. I have 4 years professional experience as a Software Engineer, and a degree in Computer Games Programming. I have interests in the creation, reviewing and testing of code.  
+
+This GitHub account is for all of my personal projects that I work on. I currently have a mix of public and private repositories, when I get a project to a 1.0 release I will make it public. If you check out any of my projects and have any feedback or suggestions feel free to get in touch with me, I am always happy to hear constructive feedback and to find ways to improve my code.
 # ⌨️ Active Coding Projects
 ## Hurzix Adventure
 Hurzix Adventure is a 2D platformer, created in Unity using C#, where the user plays as Hurzix the rare blue wolf. The user must direct Hurzix through numerous zones collecting keys and coins along the way, while also avoiding the enemies who wish to kill Hurzix and stop his progression. Each zone has different visuals, enemies and additional mechanics.
@@ -25,6 +27,13 @@ The tournament creator app was created to assist with the creation and running o
 The Twitch encounter script is a python script created in PyCharm that runs in the Streamlabs Chatbot. It allows viewers of the twitch stream to run Dungeons and Dragons style encounters, rewarding them with loot, experience and comical encounters. There is also the functionality for the streamer to initiate quests for members of the chat to form a team to complete, or active raids for viewers to either attack or defend the streamers camp.
 
 The repository for this project is currently private, but it will be made public when I have finished a 1.0 release.
+# 💭 2021 Goals
+- [ ] 1.0 Release of Twitch Encounter Script
+- [ ] 1.3 Release of Tournament Creator
+- [ ] Become Proficient in Python
+- [ ] Prototype Cube Wars (C++ turn-based real-time strategy game)
+- [ ] Further Develop my Debugging and Optimization techniques
+- [ ] Improve my Automatic Testing Process
 # 👀 Interests
 Video Games  
 Twitch Streaming  
@@ -32,8 +41,8 @@ Esports
 Tabletop Wargames  
 Tabletop Boardgames  
 Audiobooks  
-Fantasy
-Greek Mythology
+Fantasy  
+Greek Mythology  
 Food
 # 📫 Contact Me
 You can get in contact with me through my email address: watkingstudio@gmail.com
