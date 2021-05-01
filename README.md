@@ -28,8 +28,8 @@ The Twitch encounter script is a python script created in PyCharm that runs in t
 
 The repository for this project is currently private, but it will be made public when I have finished a 1.0 release.
 # 💭 2021 Goals
-- [ ] 1.0 Release of Twitch Encounter Script
-- [ ] 1.3 Release of Tournament Creator
+- [x] 1.0 Release of Twitch Encounter Script
+- [x] 1.3 Release of Tournament Creator
 - [ ] Become Proficient in Python
 - [ ] Prototype Cube Wars (C++ turn-based real-time strategy game)
 - [ ] Further Develop my Debugging and Optimization techniques
